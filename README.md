@@ -154,28 +154,27 @@
 
 > 내 프로필 관리 및 내가 신청한 모임 목록을 확인하고 리뷰를 작성할 수 있습니다.
 
-**프로필 수정**
+- **프로필 수정**
 
 <img src="https://github.com/user-attachments/assets/25f96839-d029-4c65-bbb4-3f4c1bc72f55" width="60%">
 
-**나의 모임**
+- **나의 모임**
+  - 내가 신청한 모임들을 목록으로 확인하고 리뷰를 작성할 수 있습니다.
 
 <img src="https://github.com/user-attachments/assets/4388d6cd-3943-44e7-bc32-50aed8eb268c" width="60%">
 
-- 내가 신청한 모임들을 목록으로 확인하고 리뷰를 작성할 수 있습니다.
-
 - **나의 리뷰**
+    -  작성 가능한 리뷰 목록과 작성한 리뷰 목록을 확인할 수 있습니다.
 
 <img src="https://github.com/user-attachments/assets/be271fb5-d89a-4280-9880-b504032192cf" width="45%">
 <img src="https://github.com/user-attachments/assets/17bc4147-9d4d-477e-a949-534bd2844f85" width="45%">
 
-    - 작성 가능한 리뷰 목록과 작성한 리뷰 목록을 확인할 수 있습니다.
-
-**내가 만든 모임**
-
+- **내가 만든 모임**
+    - 내가 만든 모임들을 목록으로 확인할 수 있습니다.
+    
 <img src="https://github.com/user-attachments/assets/79df4a8f-ddbe-4763-af2a-c9b3ee564e29" width="60%">
 
-- 내가 만든 모임들을 목록으로 확인할 수 있습니다.
+
 
 ### 7️⃣ 로그인 및 회원가입
 
